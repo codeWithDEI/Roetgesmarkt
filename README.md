@@ -1,44 +1,44 @@
 # Roetgesmarkt
 
-Dieses Repository enthält eine GeoJSON-Datei mit Geodaten zum Rötgesmarkt.
+This repository contains a GeoJSON file with geospatial data for the Roetgesmarkt.
 
-## Inhalt
+## Contents
 
 * `dorfflohmarkt_template.geojson`
 
   * Format: GeoJSON (`FeatureCollection`)
-  * Jeder Eintrag besitzt mindestens:
+  * Each entry contains at least:
 
-    * Geometrie (`Point`)
-    * Name/Adresse
-    * Darstellungsoptionen aus uMap
+    * Geometry (`Point`)
+    * Name/address
+    * Visualization options from uMap
 
-## Verwendungszweck
+## Purpose
 
-Die Datei kann beispielsweise verwendet werden für:
+The file can be used for:
 
-* Kartenvisualisierung in uMap
-* Import in GIS-Software wie QGIS
-* Analyse oder Dokumentation von Standorten
-* Weiterverarbeitung in eigenen Anwendungen
+* Map visualization in uMap
+* Import into GIS software such as QGIS
+* Location analysis or documentation
+* Further processing in custom applications
 
-## Verwendung
+## Usage
 
 ### uMap
 
-1. Neue Karte in uMap erstellen
-2. „Import data“ auswählen
-3. Die `.geojson` Datei hochladen
+1. Create a new map in uMap
+2. Select “Import data”
+3. Upload the `.geojson` file
 
 ### QGIS
 
-1. QGIS öffnen
-2. „Layer hinzufügen“ → „Vektorlayer hinzufügen“
-3. GeoJSON-Datei auswählen
+1. Open QGIS
+2. Select “Add Layer” → “Add Vector Layer”
+3. Choose the GeoJSON file
 
 ## Format
 
-Das Repository nutzt das standardisierte GeoJSON-Format:
+This repository uses the standardized GeoJSON format:
 
 ```json
 {
@@ -51,15 +51,8 @@ Das Repository nutzt das standardisierte GeoJSON-Format:
         "coordinates": [lng, lat]
       },
       "properties": {
-        "name": "Beispieladresse"
+        "name": "Example address"
       }
     }
   ]
 }
-```
-
-## Hinweise
-
-* Die Datei wurde für Karten-/Standortdarstellung erstellt.
-* Änderungen können direkt mit einem Texteditor, GIS-Werkzeugen oder uMap vorgenommen werden.
-* Das Repository enthält aktuell ausschließlich die GeoJSON-Daten.
