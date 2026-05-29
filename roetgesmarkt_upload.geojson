@@ -6,8 +6,8 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.535304,
+          52.418627
         ],
         "type": "Point"
       },
@@ -17,15 +17,14 @@
           "iconClass": "Circle"
         },
         "name": "Akazienweg 4, 38531"
-      },
-      "id": "FeIi6"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.524476,
+          52.41764
         ],
         "type": "Point"
       },
@@ -35,15 +34,14 @@
           "iconClass": "Circle"
         },
         "name": "Alte Heerstr. 4, 38531"
-      },
-      "id": "BRRPK"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.524484,
+          52.41793
         ],
         "type": "Point"
       },
@@ -53,15 +51,14 @@
           "iconClass": "Circle"
         },
         "name": "Alte Heerstr. 4a, 38531"
-      },
-      "id": "iV4zA"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.524328,
+          52.416999
         ],
         "type": "Point"
       },
@@ -71,15 +68,14 @@
           "iconClass": "Circle"
         },
         "name": "Alte Heerstr. 5a, 38531"
-      },
-      "id": "ejbJc"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.533298,
+          52.415137
         ],
         "type": "Point"
       },
@@ -89,15 +85,14 @@
           "iconClass": "Circle"
         },
         "name": "Alte Ziegelei 1, 38531"
-      },
-      "id": "OkUtY"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.533418,
+          52.415168
         ],
         "type": "Point"
       },
@@ -107,15 +102,14 @@
           "iconClass": "Circle"
         },
         "name": "Alte Ziegelei 10, 38531"
-      },
-      "id": "UPM4o"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.533593,
+          52.415639
         ],
         "type": "Point"
       },
@@ -125,15 +119,14 @@
           "iconClass": "Circle"
         },
         "name": "Alte Ziegelei 3, 38531"
-      },
-      "id": "cRXLP"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.533569,
+          52.415801
         ],
         "type": "Point"
       },
@@ -143,8 +136,7 @@
           "iconClass": "Circle"
         },
         "name": "Alte Ziegelei 4, 38531"
-      },
-      "id": "QX5zW"
+      }
     },
     {
       "type": "Feature",
@@ -161,8 +153,7 @@
           "iconClass": "Circle"
         },
         "name": "Alte Ziegelei 5, 38531"
-      },
-      "id": "Cw9c4"
+      }
     },
     {
       "type": "Feature",
@@ -179,8 +170,7 @@
           "iconClass": "Circle"
         },
         "name": "Alte Ziegelei 7, 38531"
-      },
-      "id": "C7DIf"
+      }
     },
     {
       "type": "Feature",
@@ -197,15 +187,14 @@
           "iconClass": "Circle"
         },
         "name": "Alte Ziegelei 7, 38531"
-      },
-      "id": "sNGX9"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.533837,
+          52.415726
         ],
         "type": "Point"
       },
@@ -215,15 +204,14 @@
           "iconClass": "Circle"
         },
         "name": "Alte Ziegelei 7, 38531"
-      },
-      "id": "Oc6nA"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.533705,
+          52.415566
         ],
         "type": "Point"
       },
@@ -233,15 +221,14 @@
           "iconClass": "Circle"
         },
         "name": "Alte Ziegelei 8, 38531"
-      },
-      "id": "EchbU"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.525739,
+          52.414692
         ],
         "type": "Point"
       },
@@ -251,15 +238,14 @@
           "iconClass": "Circle"
         },
         "name": "Am Bahndamm 1, 38531"
-      },
-      "id": "adPYT"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.527467,
+          52.415366
         ],
         "type": "Point"
       },
@@ -269,15 +255,14 @@
           "iconClass": "Circle"
         },
         "name": "Am Eikhof 5, 38531"
-      },
-      "id": "YxyJk"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.527426,
+          52.415302
         ],
         "type": "Point"
       },
@@ -287,15 +272,14 @@
           "iconClass": "Circle"
         },
         "name": "Am Eikhof 5, 38531"
-      },
-      "id": "ASr6v"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.527155,
+          52.414862
         ],
         "type": "Point"
       },
@@ -305,15 +289,14 @@
           "iconClass": "Circle"
         },
         "name": "Am Eikhof 6, 38531"
-      },
-      "id": "vYyX6"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.527319,
+          52.415021
         ],
         "type": "Point"
       },
@@ -323,15 +306,14 @@
           "iconClass": "Circle"
         },
         "name": "Am Eikhof 9, 38531"
-      },
-      "id": "JPIXW"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.532142,
+          52.413097
         ],
         "type": "Point"
       },
@@ -341,15 +323,14 @@
           "iconClass": "Circle"
         },
         "name": "Am Gografenhaus 11, 38531"
-      },
-      "id": "OMgEM"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.531973,
+          52.412488
         ],
         "type": "Point"
       },
@@ -359,15 +340,14 @@
           "iconClass": "Circle"
         },
         "name": "Am Gografenhaus 2, 38531"
-      },
-      "id": "buOLU"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.532742,
+          52.418293
         ],
         "type": "Point"
       },
@@ -377,15 +357,14 @@
           "iconClass": "Circle"
         },
         "name": "Am Ochsenberg 19, 38531"
-      },
-      "id": "dKOA1"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.532748,
+          52.418353
         ],
         "type": "Point"
       },
@@ -395,15 +374,14 @@
           "iconClass": "Circle"
         },
         "name": "Am Ochsenberg 19, 38531"
-      },
-      "id": "H5DgM"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.532769,
+          52.418391
         ],
         "type": "Point"
       },
@@ -413,15 +391,14 @@
           "iconClass": "Circle"
         },
         "name": "Am Ochsenberg 19, 38531"
-      },
-      "id": "vY76u"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.532488,
+          52.419104
         ],
         "type": "Point"
       },
@@ -431,15 +408,14 @@
           "iconClass": "Circle"
         },
         "name": "Am Ochsenberg 25, 38531"
-      },
-      "id": "kS1it"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.532434,
+          52.419521
         ],
         "type": "Point"
       },
@@ -449,15 +425,14 @@
           "iconClass": "Circle"
         },
         "name": "Am Ochsenberg 26, 38531"
-      },
-      "id": "3MBNj"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.532394,
+          52.419849
         ],
         "type": "Point"
       },
@@ -467,15 +442,14 @@
           "iconClass": "Circle"
         },
         "name": "Am Ochsenberg 30, 38531"
-      },
-      "id": "I1IGB"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.5273,
+          52.414496
         ],
         "type": "Point"
       },
@@ -485,15 +459,14 @@
           "iconClass": "Circle"
         },
         "name": "Am Schulgarten 1, 38531"
-      },
-      "id": "JZzPr"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.52745,
+          52.414488
         ],
         "type": "Point"
       },
@@ -502,16 +475,15 @@
           "color": "Red",
           "iconClass": "Circle"
         },
-        "name": "Am Schulgarten 10, 38531"
-      },
-      "id": "mdkGI"
+        "name": "Am Schulgarten 2, 38531"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.527866,
+          52.414128
         ],
         "type": "Point"
       },
@@ -521,15 +493,14 @@
           "iconClass": "Circle"
         },
         "name": "Am Schulgarten 4, 38531"
-      },
-      "id": "SnyTn"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.528051,
+          52.413832
         ],
         "type": "Point"
       },
@@ -539,15 +510,14 @@
           "iconClass": "Circle"
         },
         "name": "Am Schulgarten 8, 38531"
-      },
-      "id": "ifQFa"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.531729,
+          52.42189
         ],
         "type": "Point"
       },
@@ -557,15 +527,14 @@
           "iconClass": "Circle"
         },
         "name": "Amselweg 11, 38531"
-      },
-      "id": "hEc89"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.531643,
+          52.421502
         ],
         "type": "Point"
       },
@@ -575,15 +544,14 @@
           "iconClass": "Circle"
         },
         "name": "Amselweg 7, 38531"
-      },
-      "id": "BFobu"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.525527,
+          52.414978
         ],
         "type": "Point"
       },
@@ -593,15 +561,14 @@
           "iconClass": "Circle"
         },
         "name": "Bahnhofstraße 2b, 38531"
-      },
-      "id": "rrEhK"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.526407,
+          52.414834
         ],
         "type": "Point"
       },
@@ -611,15 +578,14 @@
           "iconClass": "Circle"
         },
         "name": "Bahnhofstraße 9, 38531"
-      },
-      "id": "omrin"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.530272,
+          52.416089
         ],
         "type": "Point"
       },
@@ -629,15 +595,14 @@
           "iconClass": "Circle"
         },
         "name": "Dorfstraße 12, 38531"
-      },
-      "id": "uZRb0"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.529682,
+          52.416241
         ],
         "type": "Point"
       },
@@ -647,15 +612,14 @@
           "iconClass": "Circle"
         },
         "name": "Dorfstraße 13, 38531"
-      },
-      "id": "y53CF"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.529548,
+          52.41629
         ],
         "type": "Point"
       },
@@ -665,15 +629,14 @@
           "iconClass": "Circle"
         },
         "name": "Dorfstraße 13, 38531"
-      },
-      "id": "LVDpD"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.527011,
+          52.41665
         ],
         "type": "Point"
       },
@@ -683,15 +646,14 @@
           "iconClass": "Circle"
         },
         "name": "Dorfstraße 23, 38531"
-      },
-      "id": "KMD3Y"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.526984,
+          52.416606
         ],
         "type": "Point"
       },
@@ -701,15 +663,14 @@
           "iconClass": "Circle"
         },
         "name": "Dorfstraße 23, 38531"
-      },
-      "id": "brnu6"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.526893,
+          52.416603
         ],
         "type": "Point"
       },
@@ -719,15 +680,14 @@
           "iconClass": "Circle"
         },
         "name": "Dorfstraße 23, 38531"
-      },
-      "id": "vHK9o"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.526844,
+          52.416627
         ],
         "type": "Point"
       },
@@ -737,15 +697,14 @@
           "iconClass": "Circle"
         },
         "name": "Dorfstraße 23, 38531"
-      },
-      "id": "ZT27c"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.528328,
+          52.416819
         ],
         "type": "Point"
       },
@@ -755,15 +714,14 @@
           "iconClass": "Circle"
         },
         "name": "Dorfstraße 24, 38531"
-      },
-      "id": "AtSub"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.530653,
+          52.422619
         ],
         "type": "Point"
       },
@@ -773,15 +731,14 @@
           "iconClass": "Circle"
         },
         "name": "Fasanenweg 14, 38531"
-      },
-      "id": "OjSsk"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.530417,
+          52.422605
         ],
         "type": "Point"
       },
@@ -791,15 +748,14 @@
           "iconClass": "Circle"
         },
         "name": "Fasanenweg 16, 38531"
-      },
-      "id": "6iB0c"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.530189,
+          52.421424
         ],
         "type": "Point"
       },
@@ -809,15 +765,14 @@
           "iconClass": "Circle"
         },
         "name": "Fasanenweg 19, 38531"
-      },
-      "id": "YzKXh"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.530192,
+          52.421236
         ],
         "type": "Point"
       },
@@ -827,15 +782,14 @@
           "iconClass": "Circle"
         },
         "name": "Fasanenweg 21, 38531"
-      },
-      "id": "DtGhW"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.530194,
+          52.421196
         ],
         "type": "Point"
       },
@@ -845,15 +799,14 @@
           "iconClass": "Circle"
         },
         "name": "Fasanenweg 21, 38531"
-      },
-      "id": "0JvOh"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.530184,
+          52.42125
         ],
         "type": "Point"
       },
@@ -863,15 +816,14 @@
           "iconClass": "Circle"
         },
         "name": "Fasanenweg 21, 38531"
-      },
-      "id": "VPk6K"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.530202,
+          52.421988
         ],
         "type": "Point"
       },
@@ -881,15 +833,14 @@
           "iconClass": "Circle"
         },
         "name": "Fasanenweg 22, 38531"
-      },
-      "id": "0KW6k"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.530151,
+          52.421785
         ],
         "type": "Point"
       },
@@ -899,15 +850,14 @@
           "iconClass": "Circle"
         },
         "name": "Fasanenweg 24, 38531"
-      },
-      "id": "UPFGP"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.532614,
+          52.42162
         ],
         "type": "Point"
       },
@@ -917,15 +867,14 @@
           "iconClass": "Circle"
         },
         "name": "Finkenweg 4, 38531"
-      },
-      "id": "gmN87"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.537517,
+          52.41914
         ],
         "type": "Point"
       },
@@ -935,15 +884,14 @@
           "iconClass": "Circle"
         },
         "name": "Ginsterweg 11, 38531"
-      },
-      "id": "PEoSs"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.537179,
+          52.418928
         ],
         "type": "Point"
       },
@@ -953,15 +901,14 @@
           "iconClass": "Circle"
         },
         "name": "Ginsterweg 12, 38531"
-      },
-      "id": "WiIj4"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.537291,
+          52.418928
         ],
         "type": "Point"
       },
@@ -971,15 +918,14 @@
           "iconClass": "Circle"
         },
         "name": "Ginsterweg 12a, 38531"
-      },
-      "id": "UtJUR"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.536771,
+          52.419031
         ],
         "type": "Point"
       },
@@ -989,15 +935,14 @@
           "iconClass": "Circle"
         },
         "name": "Ginsterweg 7, 38531"
-      },
-      "id": "wtUGm"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.531527,
+          52.41385
         ],
         "type": "Point"
       },
@@ -1007,15 +952,14 @@
           "iconClass": "Circle"
         },
         "name": "Hauptstraße 10c, 38531"
-      },
-      "id": "KwY9f"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.532034,
+          52.414622
         ],
         "type": "Point"
       },
@@ -1025,15 +969,14 @@
           "iconClass": "Circle"
         },
         "name": "Hauptstraße 14, 38531"
-      },
-      "id": "5OJ93"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.532238,
+          52.414924
         ],
         "type": "Point"
       },
@@ -1043,15 +986,14 @@
           "iconClass": "Circle"
         },
         "name": "Hauptstraße 16a, 38531"
-      },
-      "id": "sxBFl"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.531924,
+          52.414857
         ],
         "type": "Point"
       },
@@ -1061,15 +1003,14 @@
           "iconClass": "Circle"
         },
         "name": "Hauptstraße 17, 38531"
-      },
-      "id": "5LUn7"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.530779,
+          52.413154
         ],
         "type": "Point"
       },
@@ -1079,15 +1020,14 @@
           "iconClass": "Circle"
         },
         "name": "Hauptstraße 3, 38531"
-      },
-      "id": "CeRXf"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.536814,
+          52.41771
         ],
         "type": "Point"
       },
@@ -1097,15 +1037,14 @@
           "iconClass": "Circle"
         },
         "name": "Heckenrosenweg 10, 38531"
-      },
-      "id": "vswqE"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.535167,
+          52.418065
         ],
         "type": "Point"
       },
@@ -1115,15 +1054,14 @@
           "iconClass": "Circle"
         },
         "name": "Heckenrosenweg 1a, 38531"
-      },
-      "id": "aR9uv"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.537624,
+          52.419098
         ],
         "type": "Point"
       },
@@ -1133,15 +1071,14 @@
           "iconClass": "Circle"
         },
         "name": "Heideweg 6, 38531"
-      },
-      "id": "PkZ8G"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.537616,
+          52.419152
         ],
         "type": "Point"
       },
@@ -1151,15 +1088,14 @@
           "iconClass": "Circle"
         },
         "name": "Heideweg 6a, 38531"
-      },
-      "id": "Fq8az"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.537804,
+          52.419454
         ],
         "type": "Point"
       },
@@ -1169,15 +1105,14 @@
           "iconClass": "Circle"
         },
         "name": "Heideweg 7, 38531"
-      },
-      "id": "76Gfm"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.533705,
+          52.413058
         ],
         "type": "Point"
       },
@@ -1187,15 +1122,14 @@
           "iconClass": "Circle"
         },
         "name": "Hohe Luft 4a, 38531"
-      },
-      "id": "35ttU"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.533542,
+          52.418982
         ],
         "type": "Point"
       },
@@ -1205,15 +1139,14 @@
           "iconClass": "Circle"
         },
         "name": "Hohes Feld 1a, 38531"
-      },
-      "id": "t9Lww"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.533606,
+          52.420823
         ],
         "type": "Point"
       },
@@ -1223,15 +1156,14 @@
           "iconClass": "Circle"
         },
         "name": "Hohes Feld 20a, 38531"
-      },
-      "id": "IDngS"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.533531,
+          52.42032
         ],
         "type": "Point"
       },
@@ -1241,15 +1173,14 @@
           "iconClass": "Circle"
         },
         "name": "Hohes Feld 9, 38531"
-      },
-      "id": "x95eE"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.533984,
+          52.414018
         ],
         "type": "Point"
       },
@@ -1259,15 +1190,14 @@
           "iconClass": "Circle"
         },
         "name": "Lehmring 13, 38531"
-      },
-      "id": "HNpY4"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.535148,
+          52.413922
         ],
         "type": "Point"
       },
@@ -1277,15 +1207,14 @@
           "iconClass": "Circle"
         },
         "name": "Lehmring 14, 38531"
-      },
-      "id": "HjflR"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.533947,
+          52.413673
         ],
         "type": "Point"
       },
@@ -1295,15 +1224,14 @@
           "iconClass": "Circle"
         },
         "name": "Lehmring 2, 38531"
-      },
-      "id": "nFiAp"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.534043,
+          52.413653
         ],
         "type": "Point"
       },
@@ -1313,15 +1241,31 @@
           "iconClass": "Circle"
         },
         "name": "Lehmring 2, 38531"
-      },
-      "id": "diNyr"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.534362,
+          52.413611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Red",
+          "iconClass": "Circle"
+        },
+        "name": "Lehmring 4, 38531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.533408,
+          52.41382
         ],
         "type": "Point"
       },
@@ -1331,15 +1275,14 @@
           "iconClass": "Circle"
         },
         "name": "Lehmring 5, 38531"
-      },
-      "id": "VDtDf"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.53315,
+          52.414938
         ],
         "type": "Point"
       },
@@ -1349,15 +1292,14 @@
           "iconClass": "Circle"
         },
         "name": "Lehmweg 1, 38531"
-      },
-      "id": "UDbT3"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.533212,
+          52.414926
         ],
         "type": "Point"
       },
@@ -1367,15 +1309,14 @@
           "iconClass": "Circle"
         },
         "name": "Lehmweg 1, 38531"
-      },
-      "id": "jt0dE"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.533295,
+          52.414903
         ],
         "type": "Point"
       },
@@ -1385,15 +1326,14 @@
           "iconClass": "Circle"
         },
         "name": "Lehmweg 3, 38531"
-      },
-      "id": "cWV69"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.532544,
+          52.420496
         ],
         "type": "Point"
       },
@@ -1403,15 +1343,14 @@
           "iconClass": "Circle"
         },
         "name": "Lerchenweg 1, 38531"
-      },
-      "id": "OF7fo"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.530806,
+          52.42074
         ],
         "type": "Point"
       },
@@ -1421,15 +1360,14 @@
           "iconClass": "Circle"
         },
         "name": "Lerchenweg 12, 38531"
-      },
-      "id": "nRP5g"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.532496,
+          52.42059
         ],
         "type": "Point"
       },
@@ -1439,15 +1377,14 @@
           "iconClass": "Circle"
         },
         "name": "Lerchenweg 4, 38531"
-      },
-      "id": "lZOJ6"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.533496,
+          52.416557
         ],
         "type": "Point"
       },
@@ -1457,15 +1394,14 @@
           "iconClass": "Circle"
         },
         "name": "Masch 1, 38531"
-      },
-      "id": "NXS8D"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.535886,
+          52.416163
         ],
         "type": "Point"
       },
@@ -1475,15 +1411,14 @@
           "iconClass": "Circle"
         },
         "name": "Masch 16, 38531"
-      },
-      "id": "BBlWq"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.534194,
+          52.41638
         ],
         "type": "Point"
       },
@@ -1493,15 +1428,14 @@
           "iconClass": "Circle"
         },
         "name": "Masch 5, 38531"
-      },
-      "id": "dMh0M"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.534843,
+          52.416326
         ],
         "type": "Point"
       },
@@ -1511,15 +1445,14 @@
           "iconClass": "Circle"
         },
         "name": "Masch 9, 38531"
-      },
-      "id": "m2uQD"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.529795,
+          52.409442
         ],
         "type": "Point"
       },
@@ -1529,15 +1462,14 @@
           "iconClass": "Circle"
         },
         "name": "Mühlenweg 4, 38531"
-      },
-      "id": "EWH7h"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.53267,
+          52.417936
         ],
         "type": "Point"
       },
@@ -1546,16 +1478,32 @@
           "color": "Red",
           "iconClass": "Circle"
         },
-        "name": "Ochsenberg 12, 38531"
-      },
-      "id": "tTziN"
+        "name": "Am Ochsenberg 12, 38531"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.532761,
+          52.418038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Red",
+          "iconClass": "Circle"
+        },
+        "name": "Am Ochsenberg 12, 38531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.538018,
+          52.415194
         ],
         "type": "Point"
       },
@@ -1565,15 +1513,14 @@
           "iconClass": "Circle"
         },
         "name": "Össelkämpe 15, 38531"
-      },
-      "id": "Dq38i"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.537337,
+          52.414962
         ],
         "type": "Point"
       },
@@ -1583,15 +1530,14 @@
           "iconClass": "Circle"
         },
         "name": "Össelkämpe 16, 38531"
-      },
-      "id": "LnF61"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.537702,
+          52.415535
         ],
         "type": "Point"
       },
@@ -1601,15 +1547,14 @@
           "iconClass": "Circle"
         },
         "name": "Össelkämpe 2, 38531"
-      },
-      "id": "1hGLn"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.536822,
+          52.414622
         ],
         "type": "Point"
       },
@@ -1619,15 +1564,14 @@
           "iconClass": "Circle"
         },
         "name": "Össelkämpe 20, 38531"
-      },
-      "id": "CNjgy"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.53745,
+          52.414416
         ],
         "type": "Point"
       },
@@ -1637,15 +1581,14 @@
           "iconClass": "Circle"
         },
         "name": "Össelkämpe 31, 38531"
-      },
-      "id": "KA1hB"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.537401,
+          52.414406
         ],
         "type": "Point"
       },
@@ -1655,15 +1598,14 @@
           "iconClass": "Circle"
         },
         "name": "Össelkämpe 31, 38531"
-      },
-      "id": "LaFW4"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.537399,
+          52.414386
         ],
         "type": "Point"
       },
@@ -1673,15 +1615,14 @@
           "iconClass": "Circle"
         },
         "name": "Össelkämpe 31, 38531"
-      },
-      "id": "X5wne"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.537401,
+          52.414355
         ],
         "type": "Point"
       },
@@ -1691,15 +1632,14 @@
           "iconClass": "Circle"
         },
         "name": "Össelkämpe 31, 38531"
-      },
-      "id": "E3rb2"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.537407,
+          52.414306
         ],
         "type": "Point"
       },
@@ -1709,15 +1649,14 @@
           "iconClass": "Circle"
         },
         "name": "Össelkämpe 31, 38531"
-      },
-      "id": "LeZLE"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.53716,
+          52.415468
         ],
         "type": "Point"
       },
@@ -1727,15 +1666,14 @@
           "iconClass": "Circle"
         },
         "name": "Össelkämpe 6a, 38531"
-      },
-      "id": "H5lbD"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.537595,
+          52.415366
         ],
         "type": "Point"
       },
@@ -1745,15 +1683,14 @@
           "iconClass": "Circle"
         },
         "name": "Össelkämpe 8, 38531"
-      },
-      "id": "iJnTz"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.532775,
+          52.411981
         ],
         "type": "Point"
       },
@@ -1763,15 +1700,14 @@
           "iconClass": "Circle"
         },
         "name": "Schierenbalken 12, 38531"
-      },
-      "id": "iFgux"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.532673,
+          52.411993
         ],
         "type": "Point"
       },
@@ -1781,15 +1717,14 @@
           "iconClass": "Circle"
         },
         "name": "Schierenbalken 12, 38531"
-      },
-      "id": "1VwVD"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.532611,
+          52.412001
         ],
         "type": "Point"
       },
@@ -1799,15 +1734,14 @@
           "iconClass": "Circle"
         },
         "name": "Schierenbalken 12, 38531"
-      },
-      "id": "WMW1J"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.532536,
+          52.412004
         ],
         "type": "Point"
       },
@@ -1817,15 +1751,31 @@
           "iconClass": "Circle"
         },
         "name": "Schierenbalken 12, 38531"
-      },
-      "id": "7bwGM"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.533502,
+          52.41205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Red",
+          "iconClass": "Circle"
+        },
+        "name": "Schierenbalken 13, 38531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.532869,
+          52.41197
         ],
         "type": "Point"
       },
@@ -1835,15 +1785,14 @@
           "iconClass": "Circle"
         },
         "name": "Schierenbalken 14, 38531"
-      },
-      "id": "SZdq5"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.532987,
+          52.411962
         ],
         "type": "Point"
       },
@@ -1853,15 +1802,14 @@
           "iconClass": "Circle"
         },
         "name": "Schierenbalken 14, 38531"
-      },
-      "id": "5O9my"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.533182,
+          52.411934
         ],
         "type": "Point"
       },
@@ -1871,15 +1819,14 @@
           "iconClass": "Circle"
         },
         "name": "Schierenbalken 14a, 38531"
-      },
-      "id": "jSos2"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.531214,
+          52.412096
         ],
         "type": "Point"
       },
@@ -1889,15 +1836,14 @@
           "iconClass": "Circle"
         },
         "name": "Schierenbalken 4, 38531"
-      },
-      "id": "Lzql1"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.532877,
+          52.416533
         ],
         "type": "Point"
       },
@@ -1907,15 +1853,14 @@
           "iconClass": "Circle"
         },
         "name": "Schmiedestraße 3, 38531"
-      },
-      "id": "YxHqE"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.531949,
+          52.41622
         ],
         "type": "Point"
       },
@@ -1925,15 +1870,14 @@
           "iconClass": "Circle"
         },
         "name": "Schmiedestraße 6, 38531"
-      },
-      "id": "SDFkI"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.528902,
+          52.415818
         ],
         "type": "Point"
       },
@@ -1942,16 +1886,15 @@
           "color": "Red",
           "iconClass": "Circle"
         },
-        "name": "Schulstraße 10, 38531"
-      },
-      "id": "xQB9T"
+        "name": "Dorfstraße 17, 38531"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.529422,
+          52.415142
         ],
         "type": "Point"
       },
@@ -1961,15 +1904,48 @@
           "iconClass": "Circle"
         },
         "name": "Schulstraße 11, 38531"
-      },
-      "id": "rQllB"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.528545,
+          52.41505
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Red",
+          "iconClass": "Circle"
+        },
+        "name": "Schulstraße 17, 38531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.528362,
+          52.415831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Red",
+          "iconClass": "Circle"
+        },
+        "name": "Schulstraße 21, 38531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.528564,
+          52.415646
         ],
         "type": "Point"
       },
@@ -1979,15 +1955,14 @@
           "iconClass": "Circle"
         },
         "name": "Schulstraße 21a, 38531"
-      },
-      "id": "rRti1"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.528507,
+          52.415379
         ],
         "type": "Point"
       },
@@ -1997,15 +1972,14 @@
           "iconClass": "Circle"
         },
         "name": "Schulstraße 21b, 38531"
-      },
-      "id": "4I2WM"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.527367,
+          52.415412
         ],
         "type": "Point"
       },
@@ -2015,15 +1989,14 @@
           "iconClass": "Circle"
         },
         "name": "Schulstraße 23, 38531"
-      },
-      "id": "8cyGt"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.527399,
+          52.415464
         ],
         "type": "Point"
       },
@@ -2033,15 +2006,14 @@
           "iconClass": "Circle"
         },
         "name": "Schulstraße 23, 38531"
-      },
-      "id": "2yFz4"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.527413,
+          52.415515
         ],
         "type": "Point"
       },
@@ -2051,15 +2023,14 @@
           "iconClass": "Circle"
         },
         "name": "Schulstraße 23, 38531"
-      },
-      "id": "gVo4R"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.527432,
+          52.415553
         ],
         "type": "Point"
       },
@@ -2069,15 +2040,14 @@
           "iconClass": "Circle"
         },
         "name": "Schulstraße 23, 38531"
-      },
-      "id": "OkzxB"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.526284,
+          52.416315
         ],
         "type": "Point"
       },
@@ -2087,15 +2057,14 @@
           "iconClass": "Circle"
         },
         "name": "Schulstraße 33, 38531"
-      },
-      "id": "1g60z"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.529207,
+          52.415724
         ],
         "type": "Point"
       },
@@ -2105,15 +2074,14 @@
           "iconClass": "Circle"
         },
         "name": "Schulstraße 4, 38531"
-      },
-      "id": "Kd61a"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.524433,
+          52.413126
         ],
         "type": "Point"
       },
@@ -2123,15 +2091,14 @@
           "iconClass": "Circle"
         },
         "name": "Südring 10, 38531"
-      },
-      "id": "oISXq"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.524653,
+          52.41363
         ],
         "type": "Point"
       },
@@ -2141,15 +2108,14 @@
           "iconClass": "Circle"
         },
         "name": "Südring 4, 38531"
-      },
-      "id": "9iC1Y"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.53753,
+          52.416225
         ],
         "type": "Point"
       },
@@ -2159,15 +2125,14 @@
           "iconClass": "Circle"
         },
         "name": "Wiesenweg 1, 38531"
-      },
-      "id": "BADvo"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.536844,
+          52.416919
         ],
         "type": "Point"
       },
@@ -2177,15 +2142,14 @@
           "iconClass": "Circle"
         },
         "name": "Wiesenweg 12, 38531"
-      },
-      "id": "cGJJx"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.526021,
+          52.41356
         ],
         "type": "Point"
       },
@@ -2195,15 +2159,14 @@
           "iconClass": "Circle"
         },
         "name": "Zum Sportplatz 8, 38531"
-      },
-      "id": "EVIHp"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.537131,
+          52.419521
         ],
         "type": "Point"
       },
@@ -2213,15 +2176,14 @@
           "iconClass": "Circle"
         },
         "name": "Zur Diwelie 10, 38531"
-      },
-      "id": "NAm0b"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.537396,
+          52.419495
         ],
         "type": "Point"
       },
@@ -2231,15 +2193,14 @@
           "iconClass": "Circle"
         },
         "name": "Zur Diwelie 12, 38531"
-      },
-      "id": "plbk2"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.538764,
+          52.418823
         ],
         "type": "Point"
       },
@@ -2249,15 +2210,14 @@
           "iconClass": "Circle"
         },
         "name": "Zur Diwelie 24, 38531"
-      },
-      "id": "yi6Ig"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.537702,
+          52.419945
         ],
         "type": "Point"
       },
@@ -2267,15 +2227,14 @@
           "iconClass": "Circle"
         },
         "name": "Zur Diwelie 25, 38531"
-      },
-      "id": "KaHib"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.537831,
+          52.419539
         ],
         "type": "Point"
       },
@@ -2285,15 +2244,14 @@
           "iconClass": "Circle"
         },
         "name": "Zur Diwelie 29, 38531"
-      },
-      "id": "7uDGY"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.538726,
+          52.418098
         ],
         "type": "Point"
       },
@@ -2303,15 +2261,14 @@
           "iconClass": "Circle"
         },
         "name": "Zur Diwelie 34, 38531"
-      },
-      "id": "DnxsH"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.538901,
+          52.419137
         ],
         "type": "Point"
       },
@@ -2321,15 +2278,14 @@
           "iconClass": "Circle"
         },
         "name": "Zur Diwelie 35, 38531"
-      },
-      "id": "OF5TB"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,
-          0
+          10.538649,
+          52.417856
         ],
         "type": "Point"
       },
@@ -2339,8 +2295,7 @@
           "iconClass": "Circle"
         },
         "name": "Zur Diwelie 38a"
-      },
-      "id": "jZ0Zw"
+      }
     }
   ]
 }
