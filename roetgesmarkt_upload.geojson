@@ -24,7 +24,8 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          0,0
+          0,
+          0
         ],
         "type": "Point"
       },
@@ -149,7 +150,8 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          52.415832,10.533719
+          10.533719,
+          52.415832
         ],
         "type": "Point"
       },
@@ -166,7 +168,8 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.533856270547092, 52.415757186755236
+          10.533856270547092,
+          52.415757186755236
         ],
         "type": "Point"
       },
@@ -183,7 +186,8 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.533823997068561, 52.415698133289425
+          10.533823997068561,
+          52.415698133289425
         ],
         "type": "Point"
       },
