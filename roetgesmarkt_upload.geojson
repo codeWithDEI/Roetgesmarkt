@@ -1944,23 +1944,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.528564,
-          52.415646
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "Red",
-          "iconClass": "Circle"
-        },
-        "name": "Schulstraße 21a, 38531"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.528507,
           52.415379
         ],
@@ -2040,6 +2023,23 @@
           "iconClass": "Circle"
         },
         "name": "Schulstraße 23, 38531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.527102,
+          52.41613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Red",
+          "iconClass": "Circle"
+        },
+        "name": "Schulstraße 27a, 38531"
       }
     },
     {
