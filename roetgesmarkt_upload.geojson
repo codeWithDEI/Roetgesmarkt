@@ -448,6 +448,23 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
+          10.532053,
+          52.416922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Red",
+          "iconClass": "Circle"
+        },
+        "name": "Am Ochsenberg 5, 38531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
           10.5273,
           52.414496
         ],
@@ -1921,6 +1938,23 @@
           "iconClass": "Circle"
         },
         "name": "Schulstraße 17, 38531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.529433,
+          52.415652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Red",
+          "iconClass": "Circle"
+        },
+        "name": "Schulstraße 2, 38531"
       }
     },
     {
