@@ -239,6 +239,23 @@
       },
       "id": "adPYT"
     },
+     {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          52.414758,10.527212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Red",
+          "iconClass": "Circle"
+        },
+        "name": "Am Eikhof 11, 38531"
+      },
+      "id": "YeyJk"
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -731,6 +748,23 @@
         "name": "Dorfstraße 24, 38531"
       },
       "id": "AtSub"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          52.416542,10.526128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Red",
+          "iconClass": "Circle"
+        },
+        "name": "Dorfstraße 34, 38531"
+      },
+      "id": "AtSob"
     },
     {
       "type": "Feature",
