@@ -1162,6 +1162,23 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
+          10.533692,
+          52.420007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Red",
+          "iconClass": "Circle"
+        },
+        "name": "Hohes Feld 14, 38531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
           10.533542,
           52.418982
         ],
