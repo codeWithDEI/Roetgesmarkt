@@ -549,23 +549,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          52.421890,10.531729
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "Red",
-          "iconClass": "Circle"
-        },
-        "name": "Amselweg 11, 38531"
-      },
-      "id": "hEc89"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           52.421502,10.531643
         ],
         "type": "Point"
