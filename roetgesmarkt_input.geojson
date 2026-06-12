@@ -1093,6 +1093,23 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
+          52.418316,10.537450
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Red",
+          "iconClass": "Circle"
+        },
+        "name": "Heideweg 3, 38531"
+      },
+      "id": "PkZ8G"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
           52.419098,10.537624
         ],
         "type": "Point"
